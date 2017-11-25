@@ -1,0 +1,19 @@
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\bin\Debug\FileExplorer.exe.config
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\bin\Debug\FileExplorer.exe
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.MainForm.resources
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.exe
+D:\Users\sversus64\Documents\Visual Studio 2015\Projects\WindowsForms\FileExplorer\obj\Debug\FileExplorer.pdb
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\bin\Debug\FileExplorer.exe.config
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\bin\Debug\FileExplorer.exe
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\bin\Debug\FileExplorer.pdb
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.MainForm.resources
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.exe
+d:\!Колледж!\3 курс\КПиЯП\FileExplorer\obj\Debug\FileExplorer.pdb
